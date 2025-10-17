@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Audio files (don't commit large files)
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.aiff
+*.zip
+output/
+separated/
+temp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs
+*.log
+
+# Demucs models (downloaded automatically)
+.cache/
+models/
+
+# Test files
+test_*.py
+sample.*
+
+
